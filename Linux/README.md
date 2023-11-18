@@ -1,7 +1,7 @@
 # Incident Response Script for Linux
 
 ## Overview
-This Bash script is designed to assist in basic incident response on a macOS system. It automates the collection of system information, running processes, network details, user accounts, and network information for analysis during an incident. The collected data can be used for initial assessment and further investigation.
+This Bash script is designed to assist in basic incident response on a Linux system. It automates the collection of system information, running processes, network details, user accounts, and network information for analysis during an incident. The collected data can be used for initial assessment and further investigation.
 
 ## Prerequisites
 - This script is designed for Linux.
