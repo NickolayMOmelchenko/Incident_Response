@@ -64,8 +64,7 @@ fi
 
 ls
 # Run AVML
-#sudo ./avml memory.mem
-touch memory.mem
+sudo ./avml memory.mem
 # Move the file in Volatility dir 
 cp memory.mem $current_directory/incident_response/tools/volatility3/
 # Move the file in the incident dir
